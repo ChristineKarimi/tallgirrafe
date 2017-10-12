@@ -1,0 +1,80 @@
+.heading {
+  font-family: jokerman;
+  font-weight: 600px;
+  text-decoration: overline;
+}
+
+.intro {
+  color: blue;
+  font-style: italic;
+  text-align: justify;
+}
+
+.chris {
+  color: pink;
+  font-style: oblique;
+}
+
+.important {
+  color: green;
+}
+
+.unimportant {
+  color; orange;
+}
+
+
+h1 {
+  color: red;
+  text-align: center;
+  font-style: oblique;
+}
+
+.sidebar {
+  width: 30%;
+  float: right;
+  background-color: yellow;
+}
+img {
+  float: left;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+}
+
+h3 {
+  color: blue;
+}
+
+.column {
+    width: 350px;
+    float: left;
+  }
+
+  .test-box {
+    border: 2px solid red;
+  }
+
+  .test-box {
+  border-left: 2px solid red;
+  border-right: 4px solid blue;
+  border-top: 6px solid orange;
+  border-bottom: 8px solid black;
+}
+
+.test-box {
+  border: 2px solid red;
+  padding: 6px;
+}
+
+.p
+
+color: violet;
+}
+
+.sam {
+
+  color: green;
+}
